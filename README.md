@@ -29,17 +29,7 @@ git clone https://github.com/mk23rd/LAWATA.git
 cd/LAWATA
 
 # Install dependencies
-npm install gsap/react
-    tailwindcss/vite
-    dotenv
-    firebase
-    gsap
-    lucide-react
-    react
-    react-dom
-    react-router
-    react-router-dom
-    tailwindcss
+npm install 
 ```
 ### More dependencies might be used in the future so check [package.json](https://github.com/mk23rd/Risk_Integrated_Crowdfunding_and_Investment_Platform/blob/main/package.json)
 ```
